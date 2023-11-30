@@ -13,8 +13,8 @@
 import cv2
 import numpy as np
 
-from python_opencv.find_number.show_img import imshow_img
-from python_opencv.find_number.sort_number import sort_num,find_coordinate
+from show_img import imshow_img
+from sort_number import sort_num,find_coordinate
 
 ############## 模板照片提取信息 ##################
 #照片读取
